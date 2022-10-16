@@ -1,2 +1,3 @@
 #Program to print Hello world.
-print("Hello, World")
+a = "Hello, World"
+print(a)
